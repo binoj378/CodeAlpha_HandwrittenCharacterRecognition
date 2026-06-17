@@ -1,14 +1,14 @@
 Handwritten Character Recognition using CNN
 
-Project Overview
+Project Overview:
 
 This project focuses on recognizing handwritten digits using Deep Learning and Computer Vision techniques. A Convolutional Neural Network (CNN) model is trained on the MNIST dataset to classify handwritten digits from 0 to 9.
 
-Objective
+Objective:
 
 The objective of this project is to build an AI model capable of identifying handwritten characters from image data.
 
-Dataset
+Dataset:
 
 Dataset used: MNIST Dataset
 
@@ -26,7 +26,7 @@ Technologies Used
 * Matplotlib
 * Google Colab
 
-Model Used
+Model Used:
 
 Convolutional Neural Network (CNN)
 
@@ -38,7 +38,7 @@ CNN layers used:
 * Dense Layers
 * Softmax Output Layer
 
-Project Workflow
+Project Workflow:
 
 1. Import required libraries
 2. Load MNIST dataset
@@ -49,7 +49,7 @@ Project Workflow
 7. Evaluate model accuracy
 8. Predict handwritten digits
 
-Results
+Results:
 
 The model successfully classified handwritten digits with high accuracy.
 
@@ -59,12 +59,12 @@ Example prediction:
 Input Image → Handwritten Digit
 Output → Correct Digit Prediction
 
-Future Improvements
+Future Improvements:
 
 * Extend to alphabet recognition using EMNIST
 * Build full word recognition using CRNN
 * Deploy as a web/mobile app
 
-Conclusion
+Conclusion:
 
 This project demonstrates how Deep Learning can be used for handwritten character recognition. The CNN model achieved strong accuracy and successfully predicted handwritten digits from image inputs.
